@@ -1,0 +1,7 @@
+{
+  "name": "ion-arisa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
